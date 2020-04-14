@@ -1,7 +1,7 @@
 
 # web-based-simulation
 
-This is my solution to my MSc Coursework for Simulation and Data Visualisation (7CCSMSDV). In this project, I build the website including the D3 charts to analyse typee diabetes mellitus.
+This is my solution to my MSc Coursework for Simulation and Data Visualisation (7CCSMSDV). In this project, I build the website including the D3 charts to analyse type2 diabetes mellitus.
 
 
 ## Table of Contents
