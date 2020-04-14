@@ -1,13 +1,6 @@
 
 # web-based-simulation
 
-![banner]()
-
-![badge]()
-![badge]()
-[![license](https://img.shields.io/github/license/:user/:repo.svg)](LICENSE)
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-
 This is my solution to my MSc Coursework for Simulation and Data Visualisation (7CCSMSDV). In this project, I build the website including the D3 charts to analyse typee diabetes mellitus.
 
 
