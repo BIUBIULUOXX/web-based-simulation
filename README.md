@@ -7,9 +7,10 @@ This is my solution to my MSc Coursework for Simulation and Data Visualisation (
 ## Table of Contents
 
 - [Background](#background)
-- [File](#file)
+- [Files](#files)
 - [Author](#author)
 - [Date](#date)
+- [Folder](#folder)
 
 
 ## Background
@@ -20,15 +21,23 @@ The goal of the Coursework is to design and implement a web-based interactive vi
 ### Files
 
 index.html ---- the Final Webpage 
+
 RadarChart.js ---- the Radar Chart on the webpage 
+
 script.js ---- about Radar Chart data, style and any details
+
 *2min_video ---- visual analytics (hidden)
 
-File Folder:
+### File Folder:
+
 Data -- containing 2 files about type 2 diabetes mellitus
+
 code -- preprocessing one of the data 
+
 css -- containing bootstrap and style css file
+
 image -- pics which applied on the webpage
+
 js -- containing 5 js files about the structure of webpage
 
 
