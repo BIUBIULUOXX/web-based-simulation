@@ -13,13 +13,10 @@ This is my solution to my MSc Coursework for Simulation and Data Visualisation (
 
 ## Table of Contents
 
-- [Security](#security)
 - [Background](#background)
-- [Install](#install)
-- [Usage](#usage)
-- [API](#api)
-- [Contributing](#contributing)
-- [License](#license)
+- [File](#file)
+- [Author](#author)
+- [Date](#date)
 
 
 ## Background
