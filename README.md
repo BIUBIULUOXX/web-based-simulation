@@ -47,7 +47,7 @@ Minyu Luo
 
 ### DATE
 
-March 2020
+February - March 2020
 
 ### Version
 
