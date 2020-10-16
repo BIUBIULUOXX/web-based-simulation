@@ -1,8 +1,7 @@
 
 # web-based-simulation
 
-This is my solution to my MSc Coursework for Simulation and Data Visualisation (7CCSMSDV). In this project, I build the website including the D3 charts to analyse type2 diabetes mellitus.
-
+This is my solution to my MSc Coursework for Simulation and Data Visualisation (7CCSMSDV). In this project, I build the website including the D3 charts to analyse type2 diabetes mellitus.The template of my website i used was from WCF(https://github.com/Wuchenwcf/Web-templates). The data is based on https://github.com/SridharCR/Diabetes_Prediction. I am really appreciate WCF and Sridhar.
 
 ## Table of Contents
 
